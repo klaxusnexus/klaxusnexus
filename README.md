@@ -1,6 +1,6 @@
 # Hi there, I'm Klaxus / entangld 👋
 
-Welcome to my GitHub profile! I'm a passionate **System Administrator** at [Unity Systems](https://unitysystems.uk) (or your company link if applicable), where I manage and optimize complex systems to ensure everything runs smoothly. 🚀
+Welcome to my GitHub profile! I'm a passionate **System Administrator** at [Unity Systems](https://unitysystems.uk), where I manage and optimize complex systems to ensure everything runs smoothly. 🚀
 
 ## 👨‍💻 About Me
 - 🌱 **Name:** Klaxus / entangld  
