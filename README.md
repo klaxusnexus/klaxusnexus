@@ -1,6 +1,6 @@
 # Hi there, I'm Klaxus / entangld 👋
 
-Welcome to my GitHub profile! I'm a passionate **System Administrator** at [Unity Systems](https://unitysystems.uk), where I manage and optimize complex systems to ensure everything runs smoothly. 🚀
+Welcome to my GitHub profile! I'm a passionate **System Administrator** at [Unity Systems](https://unitysystems.uk), where I manage and optimize complex systems to ensure everything runs smoothly.
 
 ## 👨‍💻 About Me
 - 🌱 **Name:** Klaxus / entangld  
@@ -13,6 +13,12 @@ Welcome to my GitHub profile! I'm a passionate **System Administrator** at [Unit
 - **Languages:** Bash, Python, PowerShell  
 - **Tools:** Docker, Kubernetes, Ansible, Terraform  
 - **Cloud Platforms:** AWS, Azure  
+
+## 📊 GitHub Stats
+
+![Klaxus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=klaxusnexus&show_icons=true&theme=tokyonight&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff&bg_color=1a1a1a)
+
+---
 
 ## 🌍 Connect with Me
 - [GitHub](https://github.com/klaxusnexus)
