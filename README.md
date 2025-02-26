@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Developer over at Next Level Gaming where I 
 
 ## 👨‍💻 About Me
 - 🌱 **Name:** Klaxus / entangld  
-- 🏢 **Work:** Dev @ NLG
+- 🏢 **Work:** Nothing @ Nowhere 
 - 💡 **Projects:** When I'm not working, I dive into my own personal projects, exploring new tech and building tools to make life easier.  
 - ⚙️ **Interests:** System Automation, Open Source Contributions, and Learning New Technologies.
 
