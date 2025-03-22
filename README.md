@@ -1,10 +1,10 @@
 # Hi there, I'm Klaxus / entangld 👋
 
-Welcome to my GitHub profile! I'm a Developer over at Next Level Gaming where I manage and optimize complex systems to ensure everything runs smoothly.
+Welcome to my GitHub profile! I'm a Developer over at somewhere and somehow I manage and optimize complex systems to ensure everything runs smoothly.
 
 ## 👨‍💻 About Me
 - 🌱 **Name:** Klaxus / entangld  
-- 🏢 **Work:** Nothing @ Nowhere 
+- 🏢 **Work:** Director @ Zyphora
 - 💡 **Projects:** When I'm not working, I dive into my own personal projects, exploring new tech and building tools to make life easier.  
 - ⚙️ **Interests:** System Automation, Open Source Contributions, and Learning New Technologies.
 
