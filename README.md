@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Director of Zyphora, World's Shittiest Serve
 
 ## 👨‍💻 About Me
 - 🌱 **Name:** Klaxus / entangld  
-- 🏢 **Work:** Director @ Zyphora
+- 🏢 **Work:** Director @ Zyphora, Developer @ Lakeside, Snr Dev @ North-East Media
 - 💡 **Projects:** When I'm not working, I dive into my own personal projects, exploring new tech and building tools to make life easier.  
 - ⚙️ **Interests:** System Automation, Open Source Contributions, and Learning New Technologies.
 
