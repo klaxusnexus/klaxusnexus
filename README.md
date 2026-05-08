@@ -1,6 +1,6 @@
 # Hi there, I'm Klaxus / entangld 👋
 
-Welcome to my GitHub profile! I'm a Director of Zyphora, World's Shittiest Server Hosting (Yes, At least I admit it.), I manage and optimize complex systems to ensure everything runs smoothly.
+Welcome to my GitHub profile! I manage and optimize complex systems to ensure everything runs smoothly.
 
 ## 👨‍💻 About Me
 - 🌱 **Name:** Klaxus / entangld  
